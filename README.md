@@ -92,10 +92,10 @@ The data used in this project is sourced from an Excel file containing informati
 project-root/
 │
 ├── notebooks/
-│   ├── Building_Characteristics_Heating_Cooling_Loads_Analysis.ipynb
+│   ├── 10-18-2023_Iteration-#1_V14.ipynb
 │
 ├── data/
-│   ├── building_data.xlsx
+│   ├── ENB2012_data.xlsx
 │
 ├── README.md
 │
